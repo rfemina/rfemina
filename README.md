@@ -7,6 +7,9 @@
 
 ![Femina GitHub stats](https://github-readme-stats.vercel.app/api?username=rfemina&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rfemina&llangs_count=8)](https://github.com/rfemina/github-readme-stats)
+</br>
+
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br/>
@@ -58,9 +61,6 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
   </div>
-</br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rfemina&layout=pie)](https://github.com/rfemina/github-readme-stats)
 </br>
 
 Apaixonado por tecnologia, gestão de projetos e equipes, e por mudar a vida das pessoas através da programação
