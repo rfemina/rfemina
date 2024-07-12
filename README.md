@@ -10,7 +10,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rfemina&llangs_count=8)](https://github.com/rfemina/github-readme-stats)
 </br>
 
-<p align="center"> <img align="center" src="http>//profile-counter.glitch.me/rfemina/count.svg" /></p>
+![Visitor Count](https://profile-counter.glitch.me/{rfemina}/count.svg)
 
 </br>
 
