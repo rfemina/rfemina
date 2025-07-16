@@ -10,10 +10,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rfemina&llangs_count=8)](https://github.com/rfemina/github-readme-stats)
 </br>
 
-![Visitor Count](https://profile-counter.glitch.me/{rfemina}/count.svg)
-
-</br>
-
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br/>
