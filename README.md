@@ -10,7 +10,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rfemina&llangs_count=8)](https://github.com/rfemina/github-readme-stats)
 </br>
 
-## Tecnologias que utilizo e tenho conhecimento
+## Tecnologias que utilizo
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
